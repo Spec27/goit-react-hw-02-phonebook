@@ -6,8 +6,6 @@ import s from './App.module.css'
 import shortid from "shortid";
 
 
-
-
 class App extends Component{
 
   state = {
@@ -41,9 +39,6 @@ class App extends Component{
         contacts: [newContact,...prevState.contacts]
       }));
     }
-    
-    
-  
     
 }
     

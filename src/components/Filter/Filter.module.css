@@ -1,5 +1,7 @@
 .FilterTitle{
     font-size: 22px;
+    margin-top: 0;
+    margin-bottom: 10px;
 font-weight: 800;
 color: rgb(73, 73, 73);
 text-shadow: 0 1px 0 #cac8c8,

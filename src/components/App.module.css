@@ -1,17 +1,19 @@
 .Container{
-   width: 2400px;
+   width: 1920px;
    height: 100vh;
    display: flex;
   flex-direction: column;
   justify-content: center;
    align-items: center;
    background-color: #cdcebc46;
-   background-image: url("./img/wallpaperbetter.jpg");
+   background-image: url("../img/wallpaperbetter.jpg");
 }
 
 .Title{
 font-size: 32px;
 font-weight: 800;
+margin-top: 0;
+margin-bottom: 20px;
 color: rgb(73, 73, 73);
 text-shadow: 0 1px 0 #cac8c8,
 0 2px 0 #C7c5c5,
